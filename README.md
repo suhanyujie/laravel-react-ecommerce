@@ -1,5 +1,5 @@
 # shop site
-"laravel 11 + PHP 8.3"
+Laravel 11 + PHP 8.3 + TypeScript を基盤としたフルスタック開発は本当に素晴らしく、とてもスムーズです
 
 
 ## ref
